@@ -2,11 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\e2e",
-    "\\node_modules\\popper.js\\dist",
-    "\\node_modules\\popper.js\\dist\\umd",
     "\\src",
     "\\src\\app"
   ],
-  "SelectedNode": "\\node_modules",
   "PreviewInSolutionExplorer": false
 }
