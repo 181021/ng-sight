@@ -19,8 +19,9 @@ export class LineChartComponent implements OnInit {
 
   lineChartData = LINE_CHART_SAMPLE_DATA;
   lineChartLabels = LINE_CHART_LABELS;
-  lineChartOptions: any = {
-    responsive: true
+  lineChartOptions: any = { 
+    responsive: true,
+    maintainAspectRatio: false
   };
 
   lineChartLegend: true;

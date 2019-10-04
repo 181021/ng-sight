@@ -13,7 +13,7 @@ export class PieChartComponent implements OnInit {
   @Input() limit: number;
   
   pieChartData: number[] = [350, 450, 120];
-  pieChartLabels: string[] = ['XYZ.Logistics', 'Main St Bakery', 'Acme Hosting'];
+  pieChartLabels: string[] = ['Sanders mannelijkheid', 'PILS', 'Laurens mannelijkheid'];
 
   colors: any[] = [
     {
